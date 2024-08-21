@@ -1,0 +1,67 @@
+body {
+
+    font-family: system-ui;
+    background-color: #93d6e5;
+    color: #3E3E3E;
+}
+h1{
+    text-align: center;
+    color: #333;
+}
+.member{
+    margin: auto;
+    margin-top: 5em;
+    padding: 1rem;
+
+    background-color: #c6eaf3;
+    max-width: 100%;
+    width: 350px;
+    height: auto;
+    border-radius: 0.5em;
+}
+
+form{
+    margin: auto;
+    width: 70%;
+}
+
+.inText{
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+
+    margin-top: 3px;
+    margin-bottom: 5px;
+    border-radius: 0.5rem;
+    width: 100%;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+
+.submit{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+
+}
+
+.btn, .btn2{
+    display: inline-block;
+    text-align: center;
+
+    padding-left: 1em;
+    padding-right: 1em;
+
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+
+
+    margin-top: 30px;
+    margin-bottom: 26px;
+    
+
+    
+
+
+}

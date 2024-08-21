@@ -1,0 +1,55 @@
+.body{
+    background-color: #88ebff;
+}
+
+.main{
+    margin: auto;
+    padding: 1rem;
+
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    text-align: center;
+
+    list-style-type: none;
+}
+
+ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.btn{
+    background-color: #c2f1fa;
+    padding: 1em 6em;
+    border-radius: 1px;
+
+    color: #333;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+.btn:hover{
+    outline: none !important;
+
+
+    transition: background-color 0.25s;
+
+}
+.btn:active {
+    background-color: #6acbdf;
+
+    transition: background-color 0.25s, border-color 0.25s;
+}
